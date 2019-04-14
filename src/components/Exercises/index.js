@@ -35,7 +35,7 @@ export default ({ exercises }) => (
             <Paper style={styles.Paper}>
                 <Typography variant="display1">Welcome</Typography>
                 <Typography variant="subheading" style={{ marginTop: 20 }}>
-                    please select an exercise from left{" "}
+                    please select an exercise from left to see the details{" "}
                 </Typography>
             </Paper>
         </Grid>
